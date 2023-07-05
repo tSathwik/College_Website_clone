@@ -94,8 +94,7 @@ menu a {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-
-
+  align-items: center;
   padding: 40px;
   margin: 40px;
   background-color: #f2f2f2;
